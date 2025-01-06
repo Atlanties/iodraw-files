@@ -1,9 +1,86 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="sKA3qpIQHdnJCjVBlkSo">
-    <mxGraphModel>
+    <mxGraphModel dx="814" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s35_5YkXYHVclZI1yxsc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-1" target="s35_5YkXYHVclZI1yxsc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-5" target="s35_5YkXYHVclZI1yxsc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-6" target="s35_5YkXYHVclZI1yxsc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-6" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-7" target="s35_5YkXYHVclZI1yxsc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-7" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.99;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-8" target="s35_5YkXYHVclZI1yxsc-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-8" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="554" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-9" target="s35_5YkXYHVclZI1yxsc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="554" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-10" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="554" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-12" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.communications2;" vertex="1" parent="1">
+          <mxGeometry x="704" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.854;exitY=0.175;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-1" target="s35_5YkXYHVclZI1yxsc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;exitX=0.874;exitY=0.824;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-1" target="s35_5YkXYHVclZI1yxsc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.176;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.969;exitY=0.552;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-10" target="s35_5YkXYHVclZI1yxsc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-25" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-26" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data2;" vertex="1" parent="1">
+          <mxGeometry x="75" y="170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-32" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="230" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-35" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="15" y="230" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-36" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="125" y="230" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-10;entryPerimeter=0;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-26" target="s35_5YkXYHVclZI1yxsc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-10;entryPerimeter=0;exitX=0.078;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-26" target="s35_5YkXYHVclZI1yxsc-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s35_5YkXYHVclZI1yxsc-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-10;entryPerimeter=0;exitX=0.915;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="s35_5YkXYHVclZI1yxsc-26" target="s35_5YkXYHVclZI1yxsc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
