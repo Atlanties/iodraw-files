@@ -1,9 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="B3uHnoGhqKiid5VK8iVL">
-    <mxGraphModel>
+    <mxGraphModel dx="977" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ULZpaBfSYxWcq-2rLgdY-1" target="ULZpaBfSYxWcq-2rLgdY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="98.14" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-2" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.communications2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="158.14" y="370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ULZpaBfSYxWcq-2rLgdY-4" target="ULZpaBfSYxWcq-2rLgdY-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ULZpaBfSYxWcq-2rLgdY-5" target="ULZpaBfSYxWcq-2rLgdY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="383.5" y="370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ULZpaBfSYxWcq-2rLgdY-6" target="ULZpaBfSYxWcq-2rLgdY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-6" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="443.5" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.199;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ULZpaBfSYxWcq-2rLgdY-3" target="ULZpaBfSYxWcq-2rLgdY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-13" value="Network Gate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-14" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.communications2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-15" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
+          <mxGeometry x="118.14" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ULZpaBfSYxWcq-2rLgdY-16" value="IOT Device" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="98.14" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
