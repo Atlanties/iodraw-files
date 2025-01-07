@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="3wDqX590935IAha1_t0v">
-    <mxGraphModel dx="977" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uV-7LG1ietYZEQFbntfc-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="197.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="440" y="190" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uV-7LG1ietYZEQFbntfc-8" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.communications2;" vertex="1" parent="1">
           <mxGeometry x="440" y="450" width="60" height="60" as="geometry" />
@@ -99,6 +99,42 @@
         </mxCell>
         <mxCell id="uV-7LG1ietYZEQFbntfc-87" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="209.90470588235294" y="339.99636363636364" width="26.470588235294116" height="10.909090909090908" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-88" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="146" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-89" value="Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="38.06" y="490" width="50.92" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-90" value="C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-91" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-92" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="336" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-93" value="C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-94" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data2;" vertex="1" parent="1">
+          <mxGeometry x="54.44307189542485" y="470.92909090909086" width="18.151260504201684" height="18.151260504201684" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-96" value="Packages" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82.22" y="490" width="50.92" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-98" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="97.68" y="480.02" width="20" height="9.06" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-101" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="97.68" y="468.40000000000003" width="20" height="9.06" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-102" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="97.68" y="457.49" width="20" height="9.06" as="geometry" />
+        </mxCell>
+        <mxCell id="uV-7LG1ietYZEQFbntfc-103" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="88.98" y="305" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
