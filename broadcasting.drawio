@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="ieLeyJT_CJK5jCsGheTR">
-    <mxGraphModel dx="977" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="GPMzGDfLv2LmJb7AhvG5-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;1. Test Msg&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="352.26" width="70" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="GPMzGDfLv2LmJb7AhvG5-31" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;2. Ret Msg&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GPMzGDfLv2LmJb7AhvG5-31" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;2. ACK Msg&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="366.79" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="GPMzGDfLv2LmJb7AhvG5-32" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;3. Broadcasting Msg&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -149,10 +149,10 @@
           <mxGeometry x="620" y="230.94" width="20" height="9.06" as="geometry" />
         </mxCell>
         <mxCell id="GPMzGDfLv2LmJb7AhvG5-66" value="&lt;span&gt;Calculate&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;Gate2Node&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SNR&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="710" y="87.27" width="90" height="30" as="geometry" />
+          <mxGeometry x="710" y="97.74" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GPMzGDfLv2LmJb7AhvG5-67" value="&lt;span&gt;Ret Gate2Node&lt;/span&gt;&lt;div&gt;&lt;span&gt;SNR&amp;amp;Electricity&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="710" y="136.8" width="90" height="30" as="geometry" />
+        <mxCell id="GPMzGDfLv2LmJb7AhvG5-67" value="&lt;span&gt;ACK: Gate2Node&lt;/span&gt;&lt;div&gt;&lt;span&gt;SNR&amp;amp;Electricity&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="710" y="127.74000000000001" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GPMzGDfLv2LmJb7AhvG5-68" value="&lt;span&gt;Broadcasting Gate2Node&lt;/span&gt;&lt;div&gt;&lt;span&gt;SNR&amp;amp;Electricity&lt;/span&gt;&lt;/div&gt;&lt;div&gt;of all nodes to all nodes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="460" y="196.8" width="90" height="30" as="geometry" />
